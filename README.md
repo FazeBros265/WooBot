@@ -1,0 +1,2 @@
+# WooBot
+Bot for Discord!
